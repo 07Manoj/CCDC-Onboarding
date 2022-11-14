@@ -38,7 +38,7 @@ This repository includes two challenges. While we would like to see both done, y
 
 You are a Junior Security Architect freshkly hired by AllSafe, a small law firm with lots of sensitive client information worried aboutt ransomware. Identify the best ways to secure AllSafe's network. 
 
-[Challenge 2 details.](Challenge1.pdf) 
+[Challenge 1 details.](Challenge1.pdf) 
 
 ### Challenge 2: Secure and Scale ASCS's Infrastructure
 
