@@ -13,7 +13,10 @@ Upon your onboarding, your manager has assigned you a task to **" deploy the web
 
 - You realised that containerization is one of the best ways to deploy our services on the server and hence you decide to deploy the website and the database in the form of containers.
 
-### Challenge 
+## Challenge
+
+Please document each part below with screenshots and explanations of what you did and why. Create your documentation in markdown and submit your submission via a Github respository along with any scripts, compose, config, etc files that you create. 
+
 ### **Part 0:** Deploying the containers
 
 - The product development team has bundled the website into an image which has a webserver listening on port 8000.
