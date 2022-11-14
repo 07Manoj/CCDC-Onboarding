@@ -1,7 +1,5 @@
 #  Challenge 2: Secure & Scale ASCS's Infra
 
-## Scenario 
-
 **Scenario:** You are an infrastructure engineer at our company - All Safe Cyber Security. Your job responsibilities include:
 
 - Deploying Infrastructure on the server
