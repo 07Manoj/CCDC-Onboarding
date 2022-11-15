@@ -36,15 +36,21 @@ This repository includes two challenges. While we would like to see both done, y
 
 ### Challenge 1: Identify AllSafe's Security Issues
 
-You are a Junior Security Architect freshkly hired by AllSafe, a small law firm with lots of sensitive client information worried aboutt ransomware. Identify the best ways to secure AllSafe's network. 
+You are a Junior Security Architect freshly hired by AllSafe, a small law firm which stores a lot of sensitive client information and they are worried about ransomware. Identify the best ways to secure AllSafe's network. 
 
 [Challenge 1 details.](Challenge1.pdf) 
 
 ### Challenge 2: Secure and Scale ASCS's Infrastructure
 
-You have just been hired as an cybersecurity infrastructure engineer at ASCS. Secure and scale their infrastructuree to prevent any unfortunate security vulnerbilities that may arise. 
+You have just been hired as an cybersecurity infrastructure engineer at All Safe Cyber Security (ASCS). Your task is to secure and scale their infrastructure to prevent any unfortunate security vulnerabilities that may arise. 
 
 [Challenge 2 details.](Challenge2.md) 
+
+### Submission 
+
+You are to create a [github](https://docs.github.com/en/get-started/quickstart/hello-world) repository, you should have a folder in this repository for each challenge you do. This means if you do both challenges you would have the folders *Challenge-1* and *Challenge-2* with the solutions for them in their respective folder.
+
+***Do NOT** share the repository in any of the text channels in the server! Specific instructions for submissions will be provided when you are ready! (They may be added here to!)
 
 ## DEADLINES: 
 
