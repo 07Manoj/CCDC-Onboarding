@@ -50,7 +50,7 @@ You have just been hired as an cybersecurity infrastructure engineer at All Safe
 
 You are to create a [github](https://docs.github.com/en/get-started/quickstart/hello-world) repository, you should have a folder in this repository for each challenge you do. This means if you do both challenges you would have the folders *Challenge-1* and *Challenge-2* with the solutions for them in their respective folder.
 
-***Do NOT** share the repository in any of the text channels in the server! Specific instructions for submissions will be provided when you are ready! (They may be added here to!)
+***Do NOT*** share the repository in any of the text channels in the server! Specific instructions for submissions will be provided when you are ready! (They may be added here to!)
 
 ## DEADLINES: 
 
