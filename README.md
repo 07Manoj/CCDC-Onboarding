@@ -56,7 +56,7 @@ You are to create a [github](https://docs.github.com/en/get-started/quickstart/h
 
 🚨 🚨 🚨 
 
-WE ARE AIMING TO HAVE A TEAM SOLIDIFED BY 11/25/23. 
+WE ARE AIMING TO HAVE A TEAM SOLIDIFED BY 11/25/22. 
 DO NOT WAIT! AFTER THE 25th, YOU WILL NO LONGER BE ABLE TO JOIN THE COMPETING TEAM
 
 🚨 🚨 🚨 
