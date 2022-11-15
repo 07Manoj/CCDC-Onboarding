@@ -50,7 +50,7 @@ You have just been hired as an cybersecurity infrastructure engineer at ASCS. Se
 
 🚨 🚨 🚨 
 
-WE ARE AIMING TO HAVE A TEAM SOLIDIFED BY 11/25/23. 
+WE ARE AIMING TO HAVE A TEAM SOLIDIFED BY 11/25/22. 
 DO NOT WAIT! AFTER THE 25th, YOU WILL NO LONGER BE ABLE TO JOIN THE COMPETING TEAM
 
 🚨 🚨 🚨 
