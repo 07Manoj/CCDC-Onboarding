@@ -14,7 +14,7 @@ Know what you're getting yourself into. The CCDC competition is a high-speed hig
 
 With the ground rules out the way, I'm going to give some more rules regarding how the tryouts should play out:
 
-1. These tasks were all done by the current members of the CCDC team. So, to make sure you're right there with us, you must complete at minimum, the AIR FORCE challenge. You can also do the other. It's recommended if you want us to take you seriously. 
+1. These tasks were all done by the current members of the CCDC team. So, to make sure you're right there with us, you must complete at minimum, the second challenge(Secure and Scale ASCS's Infrastructure). You can also do the other. It's recommended if you want us to take you seriously. 
 
 2. Put your best effort into this, you are competing with one another. The CCDC competition will only accept at most 12 people on a roster. 
 
